@@ -22,4 +22,5 @@ Features:
 6. Dynamic Generation of ID Card
    ![id_card_1710739853275 (1)](https://github.com/pratham5685/dadar-vyam-mandir/assets/93913808/be5335c7-1a0b-4e52-a415-ff44685880c2)
 
-Additionally Search filters have also been implemented
+Additionally Search filters have also been implemented.
+With the help of this project they have completely shifted their operation from manual excel to completely digital web application.
