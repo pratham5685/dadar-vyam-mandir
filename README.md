@@ -19,5 +19,7 @@ Features:
    ![image](https://github.com/pratham5685/dadar-vyam-mandir/assets/93913808/5f1146d7-ab66-41ea-a586-eb612df97141)
 
    ![image](https://github.com/pratham5685/dadar-vyam-mandir/assets/93913808/58e6c581-bf53-481b-9aa9-d34d180a06ad)
+6. Dynamic Generation of ID Card
+   ![id_card_1710739853275 (1)](https://github.com/pratham5685/dadar-vyam-mandir/assets/93913808/be5335c7-1a0b-4e52-a415-ff44685880c2)
 
 Additionally Search filters have also been implemented
